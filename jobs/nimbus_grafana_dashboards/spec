@@ -1,0 +1,9 @@
+---
+name: nimbus_grafana_dashboards
+
+packages:
+  - nimbus_grafana_dashboards
+
+templates: {}
+
+properties: {}

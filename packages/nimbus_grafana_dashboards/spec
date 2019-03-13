@@ -1,0 +1,5 @@
+---
+name: nimbus_grafana_dashboards
+
+files:
+  - nimbus_grafana_dashboards/**/*
